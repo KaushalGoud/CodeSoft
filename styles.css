@@ -262,7 +262,7 @@ cursor: pointer;
     padding: 20px;
     background-color: #252323;
     color: white;
-    height: 80vh;
+    height: 90vh;
     
     display: flex;
    align-items: center;
@@ -501,4 +501,12 @@ form>textarea{
     .mydetails form {
         width: 90%;
     }
+}
+.contact>a{
+    color: white;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+
 }
